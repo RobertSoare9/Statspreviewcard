@@ -1,0 +1,23 @@
+
+body{
+    min-height: 100vh;
+}
+body, main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(233,47%,7%);
+    color: white;
+}
+.container{
+    display: flex;
+    margin:4rem;
+    border-radius: 10px;
+    background-color: hsl(244,38%,16%);
+
+}
+img{
+    width:50%;
+    border-radius: 10px;
+}

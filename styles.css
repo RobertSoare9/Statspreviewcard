@@ -40,12 +40,19 @@ img{
 }
 .left-container{
     display: flex;
-    margin:2rem;
     flex-direction: column;
     width: 50%;
     height: auto;
 }
+.text{
+    padding:2rem 3rem 0 2rem;
+}
 .data{
     display: flex;
     justify-content: space-evenly;
+    padding: 0 3rem 2rem 0;
+}
+p{
+    font-size: 0.8em;
+    font-family: 'Lexend Deca' ,sans-serif;
 }

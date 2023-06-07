@@ -54,6 +54,14 @@ img{
     padding: 0 3rem 2rem 0;
 }
 p{
-    font-size: 0.8em;
-    font-family: 'Lexend Deca' ,sans-serif;
+    font-size: 0.65em;
+    font-family: 'Inter' ,sans-serif;
+}
+h1{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+h2{
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 700;
 }
